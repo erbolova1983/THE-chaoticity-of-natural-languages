@@ -1,0 +1,1 @@
+python lib/main.py --input_path="examples/test.txt" --save_prediction_path=sample_predictions_2.json --method='wishart' -n=2 -wdim=2 -k=2 --clf_path="data/en_wishart_w_noise_rf.pkl"
